@@ -1,3 +1,6 @@
+/**sin aporte mio. Solo para ver el tema del import de archivos js tipo modulo (dividido en varios
+ * archivos) */
+
 import checkComplete from './components/checkComplete.js';
 import deleteIcon from './components/deleteIcon.js';
 
